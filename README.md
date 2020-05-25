@@ -1,6 +1,6 @@
 # Microservice Authentication, User and Role Management
 
-![CI](https://github.com/halvardssm/ms-auth/workflows/CI/badge.svg)
+![CI](https://github.com/halvardssm/ms-auth-user-role/workflows/CI/badge.svg)
 [![(Deno)](https://img.shields.io/badge/deno-1.0.2-green.svg)](https://deno.land)
 
 Authentication, user and role management microservice.
