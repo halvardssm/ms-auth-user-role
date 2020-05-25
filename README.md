@@ -1,9 +1,9 @@
-![ci](https://github.com/halvardssm/ms-auth/workflows/ci/badge.svg)
-[![(Deno)](https://img.shields.io/badge/deno-1.0.0-green.svg)](https://deno.land)
+# Microservice Authentication, User and Role Management
 
-# Microservice Authentication
+![CI](https://github.com/halvardssm/ms-auth/workflows/CI/badge.svg)
+[![(Deno)](https://img.shields.io/badge/deno-1.0.2-green.svg)](https://deno.land)
 
-Authentication and user management microservice.
+Authentication, user and role management microservice.
 
 ## Usage
 
@@ -18,4 +18,5 @@ As this is a personal microservice, the application will be heavily subjective. 
 ## Uses
 
 * [Nessie](https://deno.land/x/nessie/)
-* [Koa](https://deno.land/x/koa/)
+* [Oak](https://deno.land/x/oak/)
+* [Deno Postgres](https://deno.land/x/deno-postgres/)
