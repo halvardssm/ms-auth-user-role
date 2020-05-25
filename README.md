@@ -9,7 +9,7 @@ Authentication, user and role management microservice.
 
 * Run the application:
 
-  ```deno run --allow-net mod.ts```
+  ```deno run --allow-net --allow-read --allow-write --allow-plugin --unstable mod.ts```
 
 ## Contributing
 
@@ -19,4 +19,8 @@ As this is a personal microservice, the application will be heavily subjective. 
 
 * [Nessie](https://deno.land/x/nessie/)
 * [Oak](https://deno.land/x/oak/)
+  * [Middleware JWT](https://github.com/halvardssm/oak-middleware-jwt)
+  * [Middleware Error Handling and Logger](https://github.com/halvardssm/oak-middleware-error-logger)
 * [Deno Postgres](https://deno.land/x/deno-postgres/)
+* [Argon2](https://deno.land/x/argon2/)
+* [djwt](https://deno.land/x/djwt/)
